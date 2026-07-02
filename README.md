@@ -14,7 +14,6 @@
 <img src="https://i.pinimg.com/originals/3e/06/5a/3e065a717c44fa83b3c7dc64ec2e075f.gif" width="420">
 </div>
 <div align="center">
-<a href="https://discord.gg/RAcMm6AZ">꒰ 𝓭𝓲𝓼𝓬𝓸𝓻𝓭   ꒱ </a> <img src="https://github.com/user-attachments/assets/7c649610-b5b0-4afe-96d2-80b5da1917ed" width="20">
-</div>
+<a href="https://discord.gg/RAcMm6AZ">꒰ 𝓭𝓲𝓼𝓬𝓸𝓻𝓭   ꒱ </a> 🪽
 
 </div>
