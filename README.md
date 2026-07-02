@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
- 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 : @𝓭𝓪𝔀𝓷𝓼𝓾𝓶𝓶𝓮𝓻
+ 𝓜𝔂 𝓮𝓭𝓲𝓽𝓸𝓻 𝓲𝓼 @𝓭𝓪𝔀𝓷𝓼𝓾𝓶𝓶𝓮𝓻
  </div>
 <img src="https://i.pinimg.com/originals/3e/06/5a/3e065a717c44fa83b3c7dc64ec2e075f.gif" width="420">
 </div>
